@@ -2,7 +2,7 @@
     "name": "srustamov/telegram",
     "description": "Simple Telegram library",
     "type": "library",
-    "license": "MİT",
+    "license": "MIT",
     "autoload": {
         "psr-4": {
             "Srustamov\\Telegram\\": "src/"
