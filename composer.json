@@ -1,0 +1,22 @@
+{
+    "name": "srustamov/telegram",
+    "description": "Simple Telegram library",
+    "type": "library",
+    "license": "MİT",
+    "autoload": {
+        "psr-4": {
+            "Srustamov\\Telegram\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Samir Rustamov",
+            "email": "rustemovv96@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "php": ">=8.0",
+        "ext-curl": "*"
+    }
+}
